@@ -31,3 +31,8 @@ This guide will teach you how to configure the `PyDev` plugin. Including setting
 *Main guide: [Running your First Script](./step-5)*
 
 This guide will teach you how to run your first `Python 3` script.
+
+## Darkest Dark Theme
+*Main guide: [Darkest Dark Theme](./extra-step)*
+
+This guide will teach you how to change your default `Eclipse` theme for a darker one. Useful for coding at night and to reduce eye strain.

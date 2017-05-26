@@ -18,7 +18,7 @@ Once you have created your file a window will appear asking for your `PyDev` pre
 
 ![PyDev preferences](./images/4.png)
 
-The new `.py` file will be opened on the right side. Type the following code and then press the green button on the top that has a Play icon.
+The new `.py` file will be opened on the right side. Type the following code and then press the green button on the top that has a Play icon. Alternative you can press `F9` to run your script.
 
 ```python
 print("Hello World")

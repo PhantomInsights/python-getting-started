@@ -12,7 +12,7 @@ Next to the test that says `Work with` there's a drop down where you can select 
 
 If you have downloaded `Eclipse Nwon`, select `Neon` and press `Enter`. A list of available packages will begin to load.
 
-Once the list has finished loading, locate the `General Purpose Tools` node and expand it. Then tick the `Marketplace Client` box and press the `Next` button at the bottom.
+Once the list has finished loading, locate the `General Purpose Tools` node and expand it. Then tick the `Marketplace Client` box and click the `Next` button at the bottom.
 
 ![Marketplace Client](./images/2.png)
 
@@ -22,13 +22,13 @@ Open again the `Help` menu and select the new option `Eclipse Marketplace...`
 
 ![Eclipse Marketplace](./images/3.png)
 
-The `Eclipse Marketplace` window will open, In the search box type: `pydev` and press `Enter`.
+The `Eclipse Marketplace` window will open, In the search box type `pydev` and press `Enter`.
 
 ![Eclipse Marketplace](./images/4.png)
 
 Click the `Install` button and continue with the installation process, it will also ask you to accept the license agreements to continue.
 
-At some point during the installation process you will be asked to trust a certificate. It is very important to check the box and press the `OK` button, otherwise the installation will not succeed.
+At some point during the installation process you will be asked to trust a certificate. It is very important to check the box and click the `OK` button, otherwise the installation will not succeed.
 
 ![Certificate](./images/5.png)
 
@@ -38,7 +38,7 @@ To enable the `PyDev` plugin you need to change the IDE perspective.
 
 Open the `Window` menu, select `Perspective` -> `Open Perspective` -> `Other...`
 
-Select the `PyDev` perspecive and press the `OK` button.
+Select the `PyDev` perspecive and click the `OK` button.
 
 ![Perspective](./images/6.png)
 
