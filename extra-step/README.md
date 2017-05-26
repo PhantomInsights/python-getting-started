@@ -2,7 +2,7 @@
 
 By default, `Eclipse` has a white and light gray theme. You can change the theme in the `Preferences` menu to a darker theme.
 
-There's an alternative to the builtin dark theme named `Darkest Dark Theme` which looks nicer and helps with the eye strain in those large coding sessions.
+There's an alternative to the builtin dark theme named `Darkest Dark Theme` which looks nicer and helps with the eye strain in those late night coding sessions.
 
 To install it you need to open the `Help` menu and select `Eclipse Marketplece...`
 
