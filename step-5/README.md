@@ -1,6 +1,8 @@
 # Running your First Script
 
-After you have created your first project and configured the default `Python` interpreter you should be presented with a screen similar to this one:
+After you have created your first project and configured the default `Python` interpreter you should close the `Welcome` tab.
+
+You will then be presented with a screen similar to this one:
 
 ![Interpreter](./images/1.png)
 
