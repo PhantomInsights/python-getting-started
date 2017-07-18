@@ -18,7 +18,7 @@ Assuming we have a simple `Python 3` file on our desktop named `myscript.py`:
 
 ```
 cd c:\Users\(username)\Desktop
-myscript.py
+python myscript.py
 ```
 
 ## OSX / macOS

@@ -42,4 +42,4 @@ Select the `PyDev` perspective and click the `OK` button.
 
 ![Perspective](./images/6.png)
 
-`PyDev` is almost ready to be used, in the next guide we will configure a default interpreter and our first projeet.
+`PyDev` is almost ready to be used, in the next guide we will configure a default interpreter and our first project.

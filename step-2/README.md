@@ -16,7 +16,7 @@ Scroll down in the page until you reach the table that says `Platform Runtime Bi
 
 Once you have selected the distribution for your platform, download it and extract it in your computer, it is recommended to save it in a safe location where it can't get deleted by accident.
 
-Execute the Eclipse executable, you will be asked to type the path of your default workspace.
+Run the Eclipse executable, you will be asked to type the path of your default workspace.
 
 ![Workspace](./images/3.png)
 
