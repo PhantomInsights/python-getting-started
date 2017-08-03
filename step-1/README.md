@@ -12,6 +12,8 @@ https://www.python.org/downloads/
 
 When running the installer make sure to check the box that says `Add Python 3.6 to PATH`.
 
+![Windows](./images/1.png)
+
 Once `Python 3` has finished installing you will be able to run `Python 3` scripts by opening a `Command prompt` and typing the name of the file.
 
 Assuming we have a simple `Python 3` file on our desktop named `myscript.py`:
@@ -46,7 +48,7 @@ Once `Python 3` has installed, you can verify it is correctly linked to your `PA
 python3 --version
 ```
 
-![macOSs](./images/2.png)
+![macOS](./images/2.png)
 
 # Linux (Ubuntu)
 
