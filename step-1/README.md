@@ -8,7 +8,7 @@ The easiest way to install `Python 3` on `Windows` is to use the official `Pytho
 
 You can download the installer file (`.exe`) by opening the following link on a `Windows` PC.
 
-https://www.python.org/ftp/python/3.7.1/python-3.7.1-amd64.exe
+https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe
 
 When running the installer make sure to check the box that says `Add Python 3.6 to PATH`.
 
