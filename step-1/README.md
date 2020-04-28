@@ -14,9 +14,12 @@ When running the installer make sure to check the box that says `Add Python 3.6 
 
 ![Windows](./images/1.png)
 
-After that you should choose `Customize Installation`. Make sure your custom installation settings are the same as the following image.
+After that you should choose `Customize Installation`. Make sure your custom installation settings are the same as the following images.
 
 ![Windows](./images/2.png)
+
+![Windows](./images/3.png)
+
 
 Once `Python 3` has finished installing you will be able to run `Python 3` scripts by opening a `Command prompt` and typing the name of the file.
 
@@ -54,7 +57,7 @@ Once `Python 3` has installed, you can verify it is correctly linked to your `PA
 python3 --version
 ```
 
-![macOS](./images/3.png)
+![macOS](./images/4.png)
 
 # Linux (Ubuntu)
 
